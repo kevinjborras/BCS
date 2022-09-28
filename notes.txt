@@ -1,0 +1,1 @@
+Arreglar la barra de nagevacion. Quienes somos se mueve.
